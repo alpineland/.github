@@ -1,5 +1,5 @@
 ---
-labels: ["t: bug", "s: pending triage"]
+labels: ["t: feature", "s: pending triage"]
 ---
 
 <!-- Thank you for contributing! -->
